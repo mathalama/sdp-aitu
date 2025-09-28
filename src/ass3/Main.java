@@ -1,9 +1,5 @@
 package ass3;
 
-import ass3.SwiftAdapter;
-import ass3.LegacySwiftClient;
-import ass3.BankTransfer;
-
 import java.math.BigDecimal;
 
 public final class Main {

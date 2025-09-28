@@ -1,6 +1,4 @@
 package ass3;
-import ass3.LegacySwiftClient;
-import ass3.BankTransfer;
 
 import java.math.BigDecimal;
 import java.util.Locale;
